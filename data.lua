@@ -1,0 +1,6 @@
+require("prototypes.roots")
+require("prototypes.wooden-mining-drill")
+require("prototypes.wood-cog")
+require("prototypes.stone-axe")
+require("prototypes.wood-transport-belt")
+require("prototypes.stone-inserter")
